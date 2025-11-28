@@ -14,7 +14,6 @@ This bot is using ```Raydium```, ```Jupiter```, ```Pump.fun```
 ## 🐱‍🏍 Environment
 ```
 NodeJS version: >= 22.0
-PC: Validate Node of Solana
 ```
 
 
@@ -103,7 +102,7 @@ cd  path-to-your-folder
 - Clone the repository from GitHub:
 
 ```bash
-git  clone  https://github.com/touchsky000/Solana-Mev-Bot.git
+git  clone  https://github.com/Boonger/Solana-Mev-Bot.git
 ```
 - Navigate to the project folder:
 ```bash
