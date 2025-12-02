@@ -46,12 +46,12 @@ EXAMPLE: [SolScan Example Account MevBot](https://solscan.io/account/8MqRTAQnjhD
 
 When launching the project through Visual Studio Code, the main menu of MevBot Solana will open:
 
--  ** Main Menu**: Displays key features such as wallet management, balance overview, trading operations launch, and bot configuration.
+-   Main Menu: Displays key features such as wallet management, balance overview, trading operations launch, and bot configuration.
 
--  ** Settings and Management**: Provides options for configuring Stop-Loss, Take-Profit, selecting decentralized exchanges, and managing the wallet.
+-   Settings and Management: Provides options for configuring Stop-Loss, Take-Profit, selecting decentralized exchanges, and managing the wallet.
 
 
-** Main Menu Screenshots:**
+ Main Menu Screenshots:
 
 
 --------
@@ -76,17 +76,17 @@ Alternatively, you can **download the ZIP file manually** from the GitHub reposi
  
 1. Visit the repository's page on GitHub.
 
-2. Click the **Code** button (green).
+2. Click the Code button (green).
 
-3. Select **Download ZIP**.
+3. Select Download ZIP.
 
 4. Extract the ZIP file to any folder on your computer.
 
 ### Or:
 
-1.  ** Clone the Repository**:
+1.   Clone the Repository:
 
-- Open **Terminal** (on macOS and Linux) or **Command Prompt (CMD)** on Windows.
+- Open Terminal (on macOS and Linux) or **Command Prompt (CMD)** on Windows.
 
 - Navigate to the folder where you want to place the project:
 
@@ -111,7 +111,7 @@ cd  path-to-your-project
 npm  install
 ```
 - This command will install all dependencies listed in `package.json`.
-3.  **🚀 Launch the Application**:
+3.   Launch the Application:
 - After successful dependency installation, launch the application with the following command:
 ```bash
 node  index.js
@@ -119,7 +119,7 @@ node  index.js
 - If everything works correctly, the application will start, and you will see corresponding messages in the terminal.
 ---
 ##  Usage Guide
-1. ## ** Run the Script**:
+1. ##  Run the Script:
 - Open the terminal or command prompt.
 - Navigate to the project directory:
 ```bash
@@ -129,26 +129,25 @@ cd  path-to-your-project
 ```bash
 npm start
 ```
--  **Tip:** Use any convenient code editor, such as Visual Studio Code, Sublime Text, Atom, or another IDE.
-2. ## ** Create a New MevBot Wallet**:
+-  Tip: Use any convenient code editor, such as Visual Studio Code, Sublime Text, Atom, or another IDE.
+2. ##  Create a New MevBot Wallet:
 - In the main menu, select `Create New Wallet`.
 - Save your private key securely.
-3. ## ** Deposit**:
--  **Method 1: Manual Transfer** — Send SOL to the created wallet address.
--  
-4. ## ** Check Balance**:
+3. ##  Deposit:
+-  Method 1: Manual Transfer — Send SOL to the created wallet address.
+4. ##  Check Balance
 
 -  **Method 1**: Click the `Balance` button in the application.
 
--  **Method 2**: Use [🔗 SolScan](https://solscan.io/) to check your balance.
-5. ##  ** Configure the Bot**:
+-  Method 2: Use [🔗 SolScan](https://solscan.io/) to check your balance.
+5. ##   Configure the Bot:
 - Go to the `Settings` section.
 - Set parameters for Stop-Loss, Take-Profit, minimum and maximum purchase amounts.
 - Select decentralized exchanges for trading.
-6. ## ** Start the Bot**:
+6. ##  Start the Bot:
 - Click `Start` to begin operations.
 
-7. ## ** Withdraw Funds and Stop the Bot**:
+7. ##  Withdraw Funds and Stop the Bot:
 
 - Go to the `Withdraw` section.
 
