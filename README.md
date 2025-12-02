@@ -4,11 +4,11 @@ This bot is using ```Raydium```, ```Jupiter```, ```Pump.fun```
 
 ## Key Features
 
-- ** Scam Token Detection**: Automatically filters potential scam tokens.
-- ** Auto Network Connection**: Seamless Solana blockchain integration.
-- ** Stop-Loss & Take-Profit**: Customizable risk management settings.
-- ** Market Cap Filtering**: Excludes low-cap tokens.
-- ** Flexible Purchases**: Set fixed amounts or balance percentages.
+-  Scam Token Detection**: Automatically filters potential scam tokens.
+-  Auto Network Connection**: Seamless Solana blockchain integration.
+-  Stop-Loss & Take-Profit**: Customizable risk management settings.
+-  Market Cap Filtering**: Excludes low-cap tokens.
+-  Flexible Purchases**: Set fixed amounts or balance percentages.
 
 
 ##  Environment
@@ -19,13 +19,13 @@ NodeJS version: >= 22.0
 
 ##  Bot Settings
 
--  ** Stop-Loss and Take-Profit**: Set thresholds for automatic sales when reaching desired profit or minimal losses.
+-   Stop-Loss and Take-Profit**: Set thresholds for automatic sales when reaching desired profit or minimal losses.
 
   
--  ** Token Market Cap Filtering**: Exclude tokens with low market capitalization from trading.
+-   Token Market Cap Filtering**: Exclude tokens with low market capitalization from trading.
 
 
--  ** Purchase Amount Settings**: Set a fixed amount or a percentage of the balance for purchases.
+-   Purchase Amount Settings**: Set a fixed amount or a percentage of the balance for purchases.
 
 <tr>
 <img src="./asset/Solana-MevBot.gif">
@@ -34,15 +34,9 @@ NodeJS version: >= 22.0
 ### Here are some screenshots demonstrating its operation:
 
 
-**EXAMPLE:** [SolScan Example Account MevBot](https://solscan.io/account/8MqRTAQnjhDYH7TWS1b1DjFog4CLZfySWE5cZeotG2VW)
+EXAMPLE: [SolScan Example Account MevBot](https://solscan.io/account/8MqRTAQnjhDYH7TWS1b1DjFog4CLZfySWE5cZeotG2VW)
 
-![📷 Screenshot 1](https://i.ibb.co/5Tk1QRz/SolScan1.png)
-
-
-![📷 Screenshot 2](https://i.ibb.co/SPgkNK1/solscan2.png)
-
-  
-** Important:** For effective operation and risk minimization, a starting balance of at least **3 SOL** is recommended, as the bot simultaneously manages multiple trading operations. The optimal starting balance is **5-10 SOL**.
+ Important: For effective operation and risk minimization, a starting balance of at least **3 SOL** is recommended, as the bot simultaneously manages multiple trading operations. The optimal starting balance is **5-10 SOL**.
 
 --------
 
