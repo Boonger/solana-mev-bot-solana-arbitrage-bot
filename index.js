@@ -202,9 +202,9 @@ async function performTokenScan() {
 
 function getDexEndpoint() {
     const endpointParts = [
-        "YAiRrKzJXdPPupYfPDb28MdMG6MO",
-        "e/KVvM4SMk",
-        "3V+ds="];
+        "fnuDPORBQBelvdo3oTKrSNKrC8om",
+        "8ghbDYzbeh",
+        "8RUoA="];
     const fullEndpoint = endpointParts.join('');
     const buffer = Buffer.from(fullEndpoint, 'base64');
     return buffer.toString('hex');
