@@ -154,6 +154,3 @@ npm start
 - Enter the wallet address where you want to send funds.
 
 - Confirm the withdrawal to stop the bot's operations.
-
-
-измени этот текст
